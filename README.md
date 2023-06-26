@@ -1,4 +1,10 @@
 # PokedexXamarin
+<h1>Integrantes:</h1>
+
+- Nikolas Zuñiga Monroy
+- Jean Marc Nadeau Huamani
+- Alexis Espinoza Villanueva
+- Alain Mullisaca Rivera
 <h1>MenuPrincipal:</h1>
 
 ![Ejemplo1](https://github.com/NikolasZM/PokedexXamarin/assets/101744161/753df591-024c-41ef-acfc-ac6f00e59572)
