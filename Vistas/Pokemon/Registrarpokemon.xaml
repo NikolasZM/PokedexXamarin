@@ -61,7 +61,7 @@
                            FontSize="20"/>
                     <Entry Placeholder="Ingrese Nro"
                        FontAttributes="Bold"
-                       TextColor="White"
+                       TextColor="Black"
                        PlaceholderColor="#ccc"
                        TextTransform="Lowercase"
                        FontSize="20"
@@ -77,7 +77,7 @@
                            FontSize="20"/>
                     <Entry Placeholder="Ingrese icono"
                        FontAttributes="Bold"
-                       TextColor="White"
+                       TextColor="Black"
                        PlaceholderColor="#ccc"
                        TextTransform="Lowercase"
                        FontSize="20"
@@ -93,7 +93,7 @@
                            FontSize="20"/>
                     <Entry Placeholder="Ingrese poder"
                        FontAttributes="Bold"
-                       TextColor="White"
+                       TextColor="Black"
                        PlaceholderColor="#ccc"
                        TextTransform="Lowercase"
                        FontSize="20"
